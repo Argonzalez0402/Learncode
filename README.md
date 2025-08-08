@@ -34,7 +34,7 @@
 </div>
 
 <script>
-const scriptURL = "https://script.google.com/macros/s/AKfycbyOvSepMZPETCheXygsSRSl_22e25ABmwTcvFSNWKSMDKk_i26ndSGNzt8Fxd8PQh1N2w/exec"; // Replace with your deployed URL
+const scriptURL = "https://script.google.com/macros/s/AKfycbyOvSepMZPETCheXygsSRSl_22e25ABmwTcvFSNWKSMDKk_i26ndSGNzt8Fxd8PQh1N2w/exec](https://script.google.com/macros/s/AKfycbyOvSepMZPETCheXygsSRSl_22e25ABmwTcvFSNWKSMDKk_i26ndSGNzt8Fxd8PQh1N2w/exec"; // Replace with your deployed URL
 const pricePerItem = 12; // Price in USD
 
 document.getElementById("orderForm").addEventListener("submit", async function(e) {
